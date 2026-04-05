@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+cloudscraper
+beautifulsoup4
+textblob
+requests
